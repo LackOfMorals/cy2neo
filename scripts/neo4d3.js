@@ -1,3 +1,5 @@
+/* TO DO MODIFY THIS FOR QUERY API */
+
 function Neo(urlSource) {
 	function txUrl() {
 		var connection = urlSource();
