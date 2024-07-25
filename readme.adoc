@@ -1,3 +1,6 @@
+*This is a work in progress of modifying to work with the new Query API that shipped with Neo4j 5.21 onwards*
+
+
 == Cy2Neo - Tiny Neo4j Cypher Workbench with custom D3 Visualization
 
 Cy2Neo is a tiny *Neo4j query console*, in a single HTML-page using client-side JavaScript only.
